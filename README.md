@@ -1,6 +1,8 @@
 MNIST.jl
 ========
 
+This is deprecation fix of [MNIST](https://github.com/johnmyleswhite/MNIST.jl) maintained by Roger.
+
 [![Build Status](https://travis-ci.org/johnmyleswhite/MNIST.jl.svg?branch=master)](https://travis-ci.org/johnmyleswhite/MNIST.jl)
 
 # Introduction
